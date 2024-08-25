@@ -12,7 +12,7 @@
 </p>
 
 <div id="header" align="center">
-  <img src="https://avatars.dzeninfra.ru/get-zen-vh/6269254/2a00000181758c3b585bb3b81dccc29c4b6a/orig" width="100"/>
+  <img src="https://avatars.dzeninfra.ru/get-zen-vh/6269254/2a00000181758c3b585bb3b81dccc29c4b6a/orig" width="500"/>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
